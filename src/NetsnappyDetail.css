@@ -1,0 +1,80 @@
+.detail {
+  background-color: black;
+  position: relative;
+}
+
+.detail__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.detail__info {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  margin-right: 40px;
+  max-width: 500px;
+}
+
+.detail__title {
+  color: aliceblue;
+  font-size: 70px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.detail__description {
+  letter-spacing: 1px;
+  color: aquamarine;
+  font-weight: 400;
+}
+
+.detail__page {
+  padding-right: 30px;
+  text-align: right;
+  color: aquamarine;
+}
+
+.detail__experience {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.detail__exptitle {
+  color: aquamarine;
+  font-weight: 400;
+}
+
+.detail__expdescription {
+  color: white;
+  font-weight: 200;
+  padding: 10px;
+}
+
+.detail__exp1 {
+  margin-bottom: 60px;
+}
+
+.detail__image {
+  margin-left: 200px;
+  margin-top: 90px;
+  float: right;
+  position: relative;
+  top: 50px;
+  object-fit: contain;
+  transform: rotate(-10deg);
+}
+
+.detail__image {
+  position: relative;
+}
+
+.detail__image > img {
+  width: 500px;
+  text-align: right;
+  object-fit: contain;
+  border-radius: 10px;
+}

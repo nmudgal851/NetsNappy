@@ -1,0 +1,39 @@
+.project {
+  background-color: black;
+}
+
+.project__container {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.project__info {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+}
+
+.project__title {
+  color: aquamarine;
+  font-weight: 400;
+  font-size: 50px;
+}
+
+.project__description {
+  margin-top: 20px;
+  color: white;
+  font-weight: 200;
+  font-size: 25px;
+}
+
+.project__image {
+  margin-top: 80px;
+  position: relative;
+  margin-bottom: 80px;
+  margin-left: 100px;
+  object-fit: contain;
+  transform: rotate(10deg);
+}
+
+.project__image > img {
+}

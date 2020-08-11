@@ -1,0 +1,46 @@
+.skill {
+  background-color: black;
+  width: 100vw;
+}
+
+.skill__allflex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.skill__title {
+  margin-top: 30px;
+  color: aliceblue;
+  font-size: 70px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.skillset__title {
+  margin-top: 35px;
+  color: aliceblue;
+  font-size: 25px;
+
+  font-weight: 200;
+}
+
+.skill__heading {
+  margin-right: 150px;
+  margin-top: 30px;
+}
+
+.skill__skillset {
+  margin-left: 150px;
+  margin-top: 30px;
+}
+
+.skill__page {
+  padding: 30px;
+  text-align: right;
+  color: aquamarine;
+}
+
+.skill__flex {
+  display: flex;
+}

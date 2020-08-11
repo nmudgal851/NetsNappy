@@ -1,0 +1,54 @@
+.header {
+  background-color: black;
+}
+
+.header__container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header__info {
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+
+.header__title {
+  color: aliceblue;
+  font-size: 90px;
+  margin-bottom: 30px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.header__description {
+  color: aquamarine;
+  font-weight: 200;
+  font-size: 30px;
+}
+
+.header__page {
+  padding: 30px;
+  text-align: right;
+  color: aquamarine;
+}
+
+.header__image {
+  display: flex;
+  margin-right: 250px;
+  margin-top: 100px;
+  float: right;
+  object-fit: contain;
+  position: relative;
+  transform: rotate(20deg);
+}
+
+.header__image > img {
+  width: 500px;
+  text-align: right;
+  object-fit: contain;
+  border-radius: 10px;
+}
