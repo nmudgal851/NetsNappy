@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio-clone/static/css/main.6ddcf856.chunk.css",
-    "main.js": "/portfolio-clone/static/js/main.2b9bca50.chunk.js",
-    "main.js.map": "/portfolio-clone/static/js/main.2b9bca50.chunk.js.map",
-    "runtime-main.js": "/portfolio-clone/static/js/runtime-main.7018c73a.js",
-    "runtime-main.js.map": "/portfolio-clone/static/js/runtime-main.7018c73a.js.map",
-    "static/js/2.995eeb59.chunk.js": "/portfolio-clone/static/js/2.995eeb59.chunk.js",
-    "static/js/2.995eeb59.chunk.js.map": "/portfolio-clone/static/js/2.995eeb59.chunk.js.map",
-    "index.html": "/portfolio-clone/index.html",
-    "precache-manifest.e17ffffc8f8d90fd3300f6b6605fbc76.js": "/portfolio-clone/precache-manifest.e17ffffc8f8d90fd3300f6b6605fbc76.js",
-    "service-worker.js": "/portfolio-clone/service-worker.js",
-    "static/css/main.6ddcf856.chunk.css.map": "/portfolio-clone/static/css/main.6ddcf856.chunk.css.map",
-    "static/js/2.995eeb59.chunk.js.LICENSE.txt": "/portfolio-clone/static/js/2.995eeb59.chunk.js.LICENSE.txt",
-    "static/media/img1.png": "/portfolio-clone/static/media/img1.25153cab.png",
-    "static/media/img2.png": "/portfolio-clone/static/media/img2.39c5aa0f.png"
+    "main.css": "/NetsNappy/static/css/main.6ddcf856.chunk.css",
+    "main.js": "/NetsNappy/static/js/main.6b60724b.chunk.js",
+    "main.js.map": "/NetsNappy/static/js/main.6b60724b.chunk.js.map",
+    "runtime-main.js": "/NetsNappy/static/js/runtime-main.62000a67.js",
+    "runtime-main.js.map": "/NetsNappy/static/js/runtime-main.62000a67.js.map",
+    "static/js/2.995eeb59.chunk.js": "/NetsNappy/static/js/2.995eeb59.chunk.js",
+    "static/js/2.995eeb59.chunk.js.map": "/NetsNappy/static/js/2.995eeb59.chunk.js.map",
+    "index.html": "/NetsNappy/index.html",
+    "precache-manifest.fd33a863322f9e59ca3f062e6c6bc63e.js": "/NetsNappy/precache-manifest.fd33a863322f9e59ca3f062e6c6bc63e.js",
+    "service-worker.js": "/NetsNappy/service-worker.js",
+    "static/css/main.6ddcf856.chunk.css.map": "/NetsNappy/static/css/main.6ddcf856.chunk.css.map",
+    "static/js/2.995eeb59.chunk.js.LICENSE.txt": "/NetsNappy/static/js/2.995eeb59.chunk.js.LICENSE.txt",
+    "static/media/img1.png": "/NetsNappy/static/media/img1.25153cab.png",
+    "static/media/img2.png": "/NetsNappy/static/media/img2.39c5aa0f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7018c73a.js",
+    "static/js/runtime-main.62000a67.js",
     "static/js/2.995eeb59.chunk.js",
     "static/css/main.6ddcf856.chunk.css",
-    "static/js/main.2b9bca50.chunk.js"
+    "static/js/main.6b60724b.chunk.js"
   ]
 }
